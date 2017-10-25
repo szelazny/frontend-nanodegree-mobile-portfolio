@@ -41,7 +41,7 @@ pizzaIngredients.meats = [
   "Venison",
   "Lamb",
   "Duck",
-  "Soylent Green",
+  "Soylent Green (now with more girls)",
   "Carne Asada",
   "Soppressata Picante",
   "Coppa",
