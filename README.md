@@ -13,7 +13,7 @@ You can also view the site on github pages by using the links listed at the bott
 
 2. In pizza.html, modified the code to put the styles inline instead of separate files (as instructed to do by PageSpeed Insights https://developers.google.com/speed/pagespeed/insights/).
 
-3. Modified the code to calculate the number of pizzas needed to fill the webpage based on browser inner dimensions.
+3. In main.js, modified the code to calculate the number of pizzas needed to fill the webpage based on browser inner dimensions (I.E. - the var pizzaNum line area).
 
 4. In main.js, moved the document.body request out of for loop in the updatePositions function. This prevents the browser from having to render the page every time the loop iterates.  Also changed changePizzaSizes for the same reason.
 
