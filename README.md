@@ -21,7 +21,7 @@ You can also view the site on github pages by using the links listed at the bott
 
 6. Changed all instances of querySelector to the more efficient getElementById and getElementByClassName depending on whether a class or id is needed.
 
-7. In the changePizzaSizes function I created an additional for loop for setting the element's width. This was done to group all of the DOM calls and the Rendering together in separate loops. This prevents the browser from having to render the page over and over in between setting the styles.
+7. In the changePizzaSizes (in main.js) function I created an additional for loop for setting the element's width. This was done to group all of the DOM calls and the Rendering together in separate loops. This prevents the browser from having to render the page over and over in between setting the styles.
 
 
 To view the portfolio site on github pages go to http://github.com/szelazny/frontend-nanodegree-mobile-portfolio/
