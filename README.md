@@ -11,7 +11,7 @@ You can also view the site on github pages by using the links listed at the bott
 
 1. Optimized the pizzarea picture which was huge (2.5MB) using the website http://www.jpegmini.com/main/shrink_photo which shrank it down to  around 32K.
 
-2. Modified the code to put the styles inline instead of separate files (as instructed to do by PageSpeed Insights).
+2. Modified the code to put the styles inline instead of separate files (as instructed to do by PageSpeed Insights https://developers.google.com/speed/pagespeed/insights/).
 
 3. Modified the code to calculate the number of pizzas needed to fill the webpage based on browser inner dimensions.
 
