@@ -15,7 +15,7 @@ You can also view the site on github pages by using the links listed at the bott
 
 3. Modified the code to calculate the number of pizzas needed to fill the webpage based on browser inner dimensions.
 
-4. Moved the document.body request out of for loop in the changePizzaSizes and updatePositions functions. This prevents the browser from having to render the page every time the loop iterates.
+4. In main.js, moved the document.body request out of for loop in the updatePositions function. This prevents the browser from having to render the page every time the loop iterates.  Also changed changePizzaSizes for the same reason.
 
 5. Cached the needed DOM elements so that the brower isn't querying the DOM every time the for loops are iterated in the updatePositions and changePizzaSizes funcitons
 
