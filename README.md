@@ -9,7 +9,7 @@ You can also view the site on github pages by using the links listed at the bott
 
 ## Optimizations to Pizza Site
 
-1. Optimized the pizzarea picture which was huge (2.5MB) using the website http://www.jpegmini.com/main/shrink_photo which shrank it down to  around 32K.
+1. Optimized the pizzeria picture (now pizzeria6.jpg) which was huge (2.5MB) using the website http://www.jpegmini.com/main/shrink_photo which shrank it down to  around 32K.
 
 2. Modified the code to put the styles inline instead of separate files (as instructed to do by PageSpeed Insights https://developers.google.com/speed/pagespeed/insights/).
 
